@@ -14,6 +14,7 @@ This project is a **Dataverse-backed Power Platform solution** that demonstrates
 ---
 
 ## Architecture
+[LucidCharts Diagram](https://lucid.app/lucidchart/4bbe52a3-99e2-47f7-8fba-78b5cf496d93/edit?view_items=fAVo5o-iRTTF&page=0_0&invitationId=inv_9d216f18-dc6e-44a7-885b-29a749e1fc26)
 - **Dataverse Tables**
   - `Lead` – stores all leads and contact information
   - `Campaign` – lookup table for marketing campaigns
@@ -35,7 +36,7 @@ This project is a **Dataverse-backed Power Platform solution** that demonstrates
   - Lead distribution by campaign, source, and priority
   - Conversion metrics and sales performance
 
-![Project LucidChart Diagram](screenshots/lucidcharts/Power-Platform-Lead-Management-System-Project-Architecture.pdf)
+![Project LucidChart Diagram](screenshots/lucidcharts/Power-Platform-Lead-Management-System-Project-Architecture.png)
 
 
 ---
