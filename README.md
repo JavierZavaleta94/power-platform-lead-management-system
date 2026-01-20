@@ -35,6 +35,9 @@ This project is a **Dataverse-backed Power Platform solution** that demonstrates
   - Lead distribution by campaign, source, and priority
   - Conversion metrics and sales performance
 
+![Project LucidChart Diagram](screenshots/lucidcharts/Power-Platform-Lead-Management-System-Project-Architecture.pdf)
+
+
 ---
 
 ## Key Features
